@@ -1,0 +1,7 @@
+window.postMessage({
+	key: 'clickky_banner_76767', 
+	button_1: 'ОСТАНОВИТЬ СЛОТ', 
+	button_2: 'ЗАБРАТЬ ВЫИГРЫШ', 
+	target_url: 'http://example.com'
+}, '*')
+
